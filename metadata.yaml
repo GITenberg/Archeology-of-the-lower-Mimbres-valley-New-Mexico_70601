@@ -1,0 +1,35 @@
+_repo: Archeology-of-the-lower-Mimbres-valley-New-Mexico_70601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fewkes, Jesse Walter
+    alias: Fewkes, J. Walter (Jesse Walter)
+    birthdate: 1850
+    deathdate: 1930
+    gutenberg_agent_id: '7741'
+    url: http://www.gutenberg.org/2009/agents/7741
+    wikipedia: https://en.wikipedia.org/wiki/Jesse_Walter_Fewkes
+description: ''
+gutenberg_issued: '2023-04-20'
+identifiers:
+  gutenberg: '70601'
+  lccn: '14030958'
+language: en
+pgterms:marc905: 20221225114449fewkes
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Robert Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Smithsonian Institution, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note:
+- Publication (Smithsonian Institution) ; 2316.
+- Smithsonian miscellaneous collections ; 63, no. 10.
+subjects:
+- !lcsh 'Mimbres River Valley (N.M.) -- Antiquities'
+- !lcc 'E011'
+- GITenberg
+title: Archeology of the lower Mimbres valley, New Mexico
+url: http://www.gutenberg.org/ebooks/70601
